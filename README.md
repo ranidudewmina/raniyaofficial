@@ -5,7 +5,7 @@
 ## SL PROGRAMERS Admins
 
 * Cyber Devil Owner Of Sl Programers 
-* Mr.Dinuwa Admin Of Sl Programers 
+* Mr.Dinuwa Admin Of Sl Programers ( Owner Of TECH WITH DINUWA )
 * Z Hacker Admin Of Sl Programers 
 
 ##  
