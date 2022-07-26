@@ -10,4 +10,4 @@
 
 ##  
 
- Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+ Link: [https://tech-with-dinuwa.github.io/Sl-Programers1.Github.io/](https://tech-with-dinuwa.github.io/Sl-Programers1.Github.io/)
