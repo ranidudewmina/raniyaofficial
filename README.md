@@ -10,4 +10,4 @@
 
 ##  
 
- Link: [https://tech-with-dinuwa.github.io/Sl-Programers.Github.io/](https://tech-with-dinuwa.github.io/Sl-Programers.Github.io/)
+ Link: [https://tech-with-dinuwa.github.io/Sl_Programers.Github.io/](https://tech-with-dinuwa.github.io/Sl_Programers.Github.io/)
