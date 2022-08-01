@@ -6,7 +6,7 @@
 .background{
 width:100%;
 hight:100vh;
-background-img:("url("./img/bg1.png");
+background-img:url("./img/bg1.png");
 background-size:cover;
 background-position:center;
 }
