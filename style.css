@@ -155,7 +155,7 @@ a:hover span:nth-child(2){
       transition-delay: 0.25s;
 }
 
-/*a span:nth-child(4){
+a span:nth-child(4){
     bottom: -100%;
     left: 0;
     width: 2px;
@@ -168,7 +168,7 @@ a:hover span:nth-child(4){
       left:100%;
       transition:1s;
       transition-delay: 0.75s;
-}*/
+}
 
 #particles-js{
     height: 100vh;
