@@ -1,12 +1,12 @@
-# Sl-Programers.Github.io
+# Sl-Programmers.Github.io
 
-## Official Website Of Sl Programers 
+## Official Website Of Sl Programmers 
 
-## SL PROGRAMERS Admins
+## SL Programmers Admins
 
-* Cyber Devil Owner Of Sl Programers 
-* Mr.Dinuwa Admin Of Sl Programers ( Owner Of TECH WITH DINUWA )
-* Z Hacker Admin Of Sl Programers 
+* Cyber Devil Owner Of Sl Programmers 
+* Mr.Dinuwa Admin Of Sl Programmers ( Owner Of TECH WITH DINUWA )
+* Z Hacker Admin Of Sl Programmers 
 
 ##  
 
