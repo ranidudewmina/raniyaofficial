@@ -1,10 +1,9 @@
 # Sl-Programmers.Github.io
 
-## Official Website Of Sl Programmers 
+## Official Website Of Tech With Dinuwa Youtube Channel
 
-## SL Programmers Admins
+## Web Create and Devoloped By 
 
-* Cyber Devil Owner Of Sl Programmers 
 * Mr.Dinuwa Admin Of Sl Programmers ( Owner Of TECH WITH DINUWA )
 * Z Hacker Admin Of Sl Programmers 
 
